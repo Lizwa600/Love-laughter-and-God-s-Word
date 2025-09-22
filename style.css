@@ -1,14 +1,26 @@
+body {
+    background-color: #C8A2C8; /* lilac */
+    margin: 0;
+    padding: 0;
+}
 
 h1 {
     font-style: italic;
-    color: green;
+    color: blue;
     text-align: center;
+}
+.welcome-note {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #4B3B6B; /* a warm, soft purple */
+    margin: 10px 20px 30px;
+    font-family: 'Georgia', serif;
 }
 
 
     img {
         display: block;
         margin: 20px auto;
-        max-width: 60%;
+        max-width: 50%;
         height: auto;
 }
